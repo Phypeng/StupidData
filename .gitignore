@@ -1,17 +1,2 @@
 cmake-build-debug
-tmp
 .idea
-*.pyc
-
-archive_node/venv
-*__pycache__*
-src/archive_node/venv/
-*sqlite3
-node_modules/
-/src/ui/test
-
-
-*.pb.h
-*.pb.cc
-.vscode
-build
